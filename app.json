@@ -1,9 +1,9 @@
 {
-  "name": "ZaenMusic",
-  "logo": "https://telegra.ph/file/86931a541987a0cae7e12.jpg",
+  "name": "CafeLiteMusic",
+  "logo": "https://telegra.ph/file/5a1452003850ffbd1c125.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/Zaen67/ZaenMusic",
+  "keywords": ["music", "voicechat", "telegram", "Zaen"],
+  "repository": "https://github.com/Zaen67/CafeLiteMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
