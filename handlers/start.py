@@ -43,7 +43,6 @@ async def start_(client: Client, message: Message):
                     InlineKeyboardButton(
                         "•ɪɴʟɪɴᴇ•", switch_inline_query_current_chat=""
                [                    
-           ]
-       ),
-    )
+           ),
+        )
 
