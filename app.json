@@ -42,6 +42,11 @@
       "required": false,
       "value": "CafeLiteMusic"
     },
+    "SUPPORT_CHANNEL": {
+      "description": "Username of the group where users will go and disturb you, without @",
+      "required": false,
+      "value": "Terim4k4sih"
+    },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
