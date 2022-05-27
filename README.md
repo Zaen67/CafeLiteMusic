@@ -50,3 +50,10 @@ The second easiest way to host this bot, Deploy on Okteto Cloud
 ### 🧪 Get `SESSION_NAME` variable:
 
 [``Pyrogram Session``](https://telegram.me/StringFatherBot)
+
+
+
+### ᴄʀᴇᴅɪᴛs ✨
+- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
+- [Zaen](https://github.com/Zaen67): Kager
+- [Falica Music Bot](https://telegram.me/FalicaMusicBot): Test Bot
