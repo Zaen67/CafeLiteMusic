@@ -55,5 +55,5 @@ The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ### ᴄʀᴇᴅɪᴛs ✨
 - [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
-- [Zaen](https://github.com/Zaen67): Kager
+- [Zaen](https://github.com/Zaen67): FalicaMusic
 - [Falica Music Bot](https://telegram.me/FalicaMusicBot): Test Bot
